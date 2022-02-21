@@ -1,3 +1,3 @@
-# Courses
-1. Git and Github for Beginners
-2. Python for Everybody
+# This repository contains notes/resources on Git and Github
+
+1. Git-Cheat-sheet.pdf
