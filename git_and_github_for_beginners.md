@@ -21,7 +21,7 @@ The management of changes to documents, computer programs, large websites and ot
 
 ### Important Terminology
 - Directory -> Folder
-- Terminal or command line -> Inteface for Text commands
+- Terminal or command line -> Interface for Text commands
 - CLI -> Command Line Interface
 - cd -> Change Directory
 - Code Editor -> Word processor for writing code (E.g. Visual Studio code)
@@ -157,6 +157,7 @@ For a modified file, to add and commit the recent changes we have
 ```sql
 git commit -am "message"
 ```
+
 ### Undoing in GIT
 If we have added changes/commited changes that we want to undo.
 
